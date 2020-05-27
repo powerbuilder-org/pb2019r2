@@ -42,6 +42,7 @@ destroy(message)
 end on
 
 event open;//comentario
+//segunda linea
 
 string ls_nombres[ ] = {"asd","adasda","asad"}
 int li_numeros[-5 to 4]
